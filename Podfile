@@ -1,0 +1,21 @@
+platform :ios, '10.0'
+target "ProjectSummary" do
+    
+pod 'AFNetworking', '~> 3.1.0'
+pod 'Masonry', '~> 1.0.2'
+pod 'SDWebImage', '~> 3.7'
+pod 'MJRefresh'
+pod 'JSONModel', '~> 1.7.0'
+pod 'MJExtension', '~> 3.0.13'
+#pod 'MBProgressHUD', '~> 1.0.0'
+pod 'XHTagView', '~> 2.0'
+pod 'ProtocolBuffers', '~> 1.9.11'
+pod 'MQTTKit', '~> 0.1.0'
+pod 'FCUUID', '~> 1.3.1'
+pod 'CocoaAsyncSocket', '~> 7.5.1'
+pod 'FSLineChart', '~> 0.1.7'
+pod 'MJExtension', '~> 3.0.13'
+pod 'Hyphenate'
+pod 'EaseUI', :git =>'https://github.com/easemob/easeui-ios-hyphenate-cocoapods.git'
+pod 'Reveal-iOS-SDK'
+end
