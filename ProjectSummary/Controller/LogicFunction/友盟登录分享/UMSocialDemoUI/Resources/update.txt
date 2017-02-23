@@ -1,0 +1,7 @@
+1. 新增第三方登录平台：
+> DropBox、VKontakte
+2. 新增第三方分享平台：
+> 有道云笔记、印象笔记、Google+、DropBox、VKontakte、Pocket
+3. 增加图片水印功能
+4. 全面支持ATS
+5. 修复部分问题，提高稳定性
